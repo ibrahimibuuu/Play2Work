@@ -14,9 +14,8 @@ const Feature = () => {
           <SectionHeader
             headerInfo={{
               title: "GRAB EXTRA REWARDS",
-              subtitle: "Core Visions of P2H",
-              description: `Play2Help is a free gaming platform that allows you to play games for free and donate to charity.
-              Play games and help people in need.`,
+              subtitle: "Core Visions of P2W",
+              description: `Play2Work is a free gaming platform where users can play games to earn coupons. These coupons can be converted into real money, which users can either withdraw or donate to charitable organizations, blending entertainment with a meaningful cause..`,
             }}
           />
           {/* <!-- Section Title End --> */}

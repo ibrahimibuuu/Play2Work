@@ -16,7 +16,7 @@ const Hero = () => {
           <div className="flex lg:items-center lg:gap-8 xl:gap-32.5">
             <div className=" md:w-1/2">
               <h4 className="mb-4.5 text-lg font-medium text-black dark:text-white">
-                🔥 Play2Help - A Complete Gaming Experience
+                🔥 Play2Work - A Complete Gaming Experience
               </h4>
               <h1 className="mb-5 pr-16 text-3xl font-bold text-black dark:text-white xl:text-hero ">
                 Free Gaming Platform
@@ -25,11 +25,7 @@ const Hero = () => {
                 </span>
               </h1>
               <p>
-                Play2Help is a free gaming platform that allows you to play
-                games for free and donate to charity. Play games and help people
-                in need. Play2Help is a free gaming platform that allows you to
-                play games for free and donate to charity. Play games and help
-                people in need.
+              Play2Work is a free gaming platform where users can play games to earn coupons. These coupons can be converted into real money, which users can either withdraw or donate to charitable organizations, blending entertainment with a meaningful cause.
               </p>
 
               <div className="mt-10">
@@ -58,7 +54,7 @@ const Hero = () => {
             </div>
 
             <div className="animate_right hidden md:w-1/2 lg:block">
-              <div className="relative 2xl:-mr-7.5">
+            <div className="relative 2xl:-mr-7.5">
                 <Image
                   src="/images/shape/shape-01.png"
                   alt="shape"
