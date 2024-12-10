@@ -32,7 +32,7 @@ const Footer = () => {
                   <Image
                     width={110}
                     height={80}
-                    src="/images/logo/logo-dark.png"
+                    src="/images/logo/Play2WorkWorld_Logo.png"
                     alt="Logo"
                     className="dark:hidden"
                   />
