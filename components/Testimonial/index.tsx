@@ -22,7 +22,7 @@ const Testimonial = () => {
               headerInfo={{
                 title: `TESTIMONIALS`,
                 subtitle: `User’s Testimonials`,
-                description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+                description: `Play2Work is a free gaming platform where users can play games to earn coupons. These coupons can be converted into real money, which users can either withdraw or donate to charitable organizations, blending entertainment with a meaningful cause.`,
               }}
             />
           </div>
